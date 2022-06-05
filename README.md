@@ -25,19 +25,17 @@ https://github.com/MaxMakinen/FDF_42
 FDF is a school project where I needed to turn a text file with numbers into a wireframe visualisation.
 
 
-  <div align="center" style="display: inline_block"><br>
-    <h2>⚡️ A Few Quick Facts.</h2> 
-    •  🔭 I’m currently working on: Making my own version of the printf function <br>
-    •  💬 Using: C <br>
-    •  🌱 I’m learning: C, debugging  and testing all kinds of edge cases to faithfully recreate the originals behaviour <br>
-    •  🐝 Board member of the Hive student organisation Hexagon <br>
-    •  👨‍💻 Most of my projects are available on Github <br>
-    •  📫 Contact me: quantumhound@gmail.com <br>
-    •  😄 Fun fact: I like reading, strategy games and chilling out with my dogs. 
-  </div>
-<br>
-<br>
-<br>
+<div align="center" style="display: inline_block"><br>
+  <h2>⚡️ A Few Quick Facts.</h2> 
+  •  🔭 I’m currently working on: Making my own version of the printf function <br>
+  •  💬 Using: C <br>
+  •  🌱 I’m learning: C, debugging  and testing all kinds of edge cases to faithfully recreate the originals behaviour <br>
+  •  🐝 Board member of the Hive student organisation Hexagon <br>
+  •  👨‍💻 Most of my projects are available on Github <br>
+  •  📫 Contact me: quantumhound@gmail.com <br>
+  •  😄 Fun fact: I like reading, strategy games and chilling out with my dogs. 
+</div>
+
 <br>
 
 ![snake gif](https://github.com/MaxMakinen/MaxMakinen/blob/output/github-contribution-grid-snake.svg)
