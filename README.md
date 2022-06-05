@@ -20,8 +20,8 @@ I've always enjoyed making things and I've really found the field of my dreams i
 where my creativity is no longer bound by the restraints of the materails I'm working with.
 Plus it's far cheaper to mess up and back up thanks to version control than with physical materials.
 
-My current Portfolio piece can be found here:
-https://github.com/MaxMakinen/FDF_42
+My current Portfolio piece can be found here:<br>
+https://github.com/MaxMakinen/FDF_42<br>
 FDF is a school project where I needed to turn a text file with numbers into a wireframe visualisation.
 
 
