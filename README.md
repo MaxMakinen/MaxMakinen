@@ -39,6 +39,8 @@ FDF is a school project where I needed to turn a text file with numbers into a w
 <br>
 
 ![snake gif](https://github.com/MaxMakinen/MaxMakinen/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
 <br>
 
