@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Max Mäkinen, a software engineering sudent at the Hive Helsinki coding school.
-In a previous life i've studied to becom a goldsmith, then a blacksmith.
+In a previous life i've studied to become a goldsmith, then a blacksmith.
 I've always enjoyed making things and I've really found the field of my dreams in software development, 
 where my creativity is no longer bound by the restraints of the materails I'm working with.
 Plus it's far cheaper to mess up and back up thanks to version control than with physical materials.
@@ -27,7 +27,7 @@ FDF is a school project where I needed to turn a text file with numbers into a w
 
 <div align="center" style="display: inline_block"><br>
   <h2>⚡️ A Few Quick Facts.</h2> 
-  •  🔭 I’m currently working on: Making my own version of the printf function <br>
+  •  🔭 I’m currently working on: Making a simple raytracer in c <br>
   •  💬 Using: C <br>
   •  🌱 I’m learning: C, debugging  and testing all kinds of edge cases to faithfully recreate the originals behaviour <br>
   •  🐝 Board member of the Hive student organisation Hexagon <br>
