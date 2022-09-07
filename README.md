@@ -29,7 +29,7 @@ FDF is a school project where I needed to turn a text file with numbers into a w
   <h2>⚡️ A Few Quick Facts.</h2> 
   •  🔭 I’m currently working on: Making a simple raytracer in c <br>
   •  💬 Using: C <br>
-  •  🌱 I’m learning: C, debugging  and testing all kinds of edge cases to faithfully recreate the originals behaviour <br>
+  •  🌱 I’m learning: C, debugging  and converting math equations into code, as well as parsing an input file <br>
   •  🐝 Board member of the Hive student organisation Hexagon <br>
   •  👨‍💻 Most of my projects are available on Github <br>
   •  📫 Contact me: quantumhound@gmail.com <br>
