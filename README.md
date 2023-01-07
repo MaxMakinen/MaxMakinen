@@ -20,14 +20,18 @@ I've always enjoyed making things and I've really found the field of my dreams i
 where my creativity is no longer bound by the restraints of the materails I'm working with.
 Plus it's far cheaper to mess up and back up thanks to version control than with physical materials.
 
-My current Portfolio piece can be found here:<br>
-https://github.com/MaxMakinen/FDF_42<br>
-FDF is a school project where I needed to turn a text file with numbers into a wireframe visualisation.
-
+My current Portfolio pieces can be found here:<br>
+A ray tracer we're building as a team in school:<br>
+https://github.com/JaroJuntunen/RT<br>
+An XML parser i wrote in C:
+https://github.com/MaxMakinen/YaXML<br><br>
+This one is more for fun and still under construction.<br>
+An FPS maze game using ray casting, works in the terminal using ncurses. Written for fun in C:<br>
+https://github.com/MaxMakinen/CLI_fps<br>
 
 <div align="center" style="display: inline_block"><br>
   <h2>⚡️ A Few Quick Facts.</h2> 
-  •  🔭 I’m currently working on: Making a simple raytracer in c <br>
+  •  🔭 I’m currently working on: Making a raytracer with a team, in C <br>
   •  💬 Using: C <br>
   •  🌱 I’m learning: C, debugging  and converting math equations into code, as well as parsing an input file <br>
   •  🐝 Board member of the Hive student organisation Hexagon <br>
