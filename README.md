@@ -23,7 +23,7 @@ Plus it's far cheaper to mess up and back up thanks to version control than with
 My current Portfolio pieces can be found here:<br>
 A ray tracer we're building as a team in school:<br>
 https://github.com/JaroJuntunen/RT<br>
-An XML parser i wrote in C:<br>
+An XML parser I wrote in C:<br>
 https://github.com/MaxMakinen/YaXML<br><br>
 This one is more for fun and still under construction.<br>
 An FPS maze game using ray casting, works in the terminal using ncurses. Written for fun in C:<br>
