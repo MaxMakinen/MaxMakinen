@@ -31,7 +31,7 @@ https://github.com/MaxMakinen/CLI_fps<br>
 
 <div align="center" style="display: inline_block"><br>
   <h2>⚡️ A Few Quick Facts.</h2> 
-  •  🔭 I’m currently working on: Making a raytracer with a team, in C <br>
+  •  🔭 I’m currently working on: Figuring out C++, SFML, OpenGL and Cmake for a rasterisation project <br>
   •  💬 Using: C <br>
   •  🌱 I’m learning: C, debugging  and converting math equations into code, as well as parsing an input file <br>
   •  🐝 Board member of the Hive student organisation Hexagon <br>
