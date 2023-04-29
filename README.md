@@ -31,10 +31,9 @@ https://github.com/MaxMakinen/CLI_fps<br>
 
 <div align="center" style="display: inline_block"><br>
   <h2>⚡️ A Few Quick Facts.</h2> 
-  •  🔭 I’m currently working on: Figuring out C++, SFML, OpenGL and Cmake for a rasterisation project <br>
+  •  🔭 I’m currently working on: Having a break from it all and focusing on self care <br>
   •  💬 Using: C & C++<br>
-  •  🌱 I’m learning: C, debugging  and converting math equations into code, as well as parsing an input file <br>
-  •  🐝 Board member of the Hive student organisation Hexagon <br>
+  •  🌱 I’m learning: C, C++, debugging and focusing on recovering from a rough patch <br>
   •  👨‍💻 Most of my projects are available on Github <br>
   •  📫 Contact me: quantumhound@gmail.com <br>
   •  😄 Fun fact: I like reading, strategy games and chilling out with my dogs. 
