@@ -29,11 +29,14 @@ This one is more for fun and still under construction.<br>
 An FPS maze game using ray casting, works in the terminal using ncurses. Written for fun in C:<br>
 https://github.com/MaxMakinen/CLI_fps<br>
 
+Current passion project: A top down resource gathering game focusing on mining, minions and building a tower<br>
+https://github.com/MaxMakinen/tower_builder<br>
+
 <div align="center" style="display: inline_block"><br>
   <h2>⚡️ A Few Quick Facts.</h2> 
-  •  🔭 I’m currently working on: Having a break from it all and focusing on self care <br>
-  •  💬 Using: C & C++<br>
-  •  🌱 I’m learning: C, C++, debugging and focusing on recovering from a rough patch <br>
+  •  🔭 I’m currently working on: Learning Godot <br>
+  •  💬 Using: GDScript<br>
+  •  🌱 I’m learning: GDScript and game dev <br>
   •  👨‍💻 Most of my projects are available on Github <br>
   •  📫 Contact me: quantumhound@gmail.com <br>
   •  😄 Fun fact: I like reading, strategy games and chilling out with my dogs. 
