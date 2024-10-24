@@ -26,7 +26,7 @@ https://github.com/JaroJuntunen/RT<br>
 An XML parser I wrote in C:<br>
 https://github.com/MaxMakinen/YaXML<br><br>
 This one is more for fun and still under construction.<br>
-An FPS maze game using ray casting, works in the terminal using ncurses. Written for fun in C:<br>
+An first person maze game using ray casting, works in the terminal using ncurses. Written for fun in C:<br>
 https://github.com/MaxMakinen/CLI_fps<br>
 
 Current passion project: A top down resource gathering game focusing on mining, minions and building a tower<br>
